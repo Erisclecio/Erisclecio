@@ -23,7 +23,8 @@
 
 <div align="center">
 
-<a href="https://github.com/Erisclecio?tab=repositories"><img alt="Ícones de Python, HTML, CSS, Git, GitHub e VS Code" src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode&amp;theme=dark&amp;perline=6" /></a>
+<a href="https://github.com/Erisclecio?tab=repositories"><img
+    alt="Ícones de Python, HTML, PostgreSQL, Git, GitHub e VS Code" src="https://skillicons.dev/icons?i=python,html,postgres,git,github,vscode&theme=dark&perline=6"/></a>
 
 <img alt="SQL em estudo" src="https://img.shields.io/badge/SQL-em%20estudo-176B79?style=for-the-badge" />
 <img alt="Modelagem de dados" src="https://img.shields.io/badge/Modelagem%20de%20Dados-em%20estudo-176B79?style=for-the-badge" />

@@ -14,10 +14,10 @@
 
 ## Um pouco sobre mim
 
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — em andamento.
-- 🧩 **Estudando:** lógica de programação, Python, desenvolvimento web e modelagem de dados.
-- 📊 **Interesses:** banco de dados, análise de dados e desenvolvimento de sistemas.
-- 🚀 **Na prática:** projetos acadêmicos para conectar o que aprendo com situações reais.
+-  **Formação:** Análise e Desenvolvimento de Sistemas — em andamento.
+-  **Estudando:** lógica de programação, Python, desenvolvimento web e modelagem de dados.
+-  **Interesses:** banco de dados, análise de dados e desenvolvimento de sistemas.
+-  **Na prática:** projetos acadêmicos para conectar o que aprendo com situações reais.
 
 ## Tecnologias e ferramentas em aprendizado
 

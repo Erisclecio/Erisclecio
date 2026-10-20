@@ -12,16 +12,14 @@
 
 </div>
 
-## 👨‍💻 Um pouco sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, na **UNICID**, e estou construindo minha trajetória na tecnologia. Tenho experiência profissional com rotinas administrativas, **sistemas ERP**, estoque, faturamento e e-commerce — vivências que despertaram meu interesse por dados, processos e soluções digitais.
+## Um pouco sobre mim
 
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — em andamento.
 - 🧩 **Estudando:** lógica de programação, Python, desenvolvimento web e modelagem de dados.
 - 📊 **Interesses:** banco de dados, análise de dados e desenvolvimento de sistemas.
 - 🚀 **Na prática:** projetos acadêmicos para conectar o que aprendo com situações reais.
 
-## 🛠️ Tecnologias e ferramentas em aprendizado
+## Tecnologias e ferramentas em aprendizado
 
 <div align="center">
 
@@ -33,7 +31,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, na **UNICID**
 
 </div>
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 Os projetos abaixo são **acadêmicos e desenvolvidos em equipe**. Eles mostram minha evolução em diferentes áreas da tecnologia.
 
@@ -53,7 +51,7 @@ Os projetos abaixo são **acadêmicos e desenvolvidos em equipe**. Eles mostram 
 
 </div>
 
-## 📈 Minha atividade no GitHub
+## Minha atividade no GitHub
 
 <div align="center">
 
@@ -66,20 +64,7 @@ Os projetos abaixo são **acadêmicos e desenvolvidos em equipe**. Eles mostram 
 
 </div>
 
-## 🌱 Um pouco mais da minha trajetória
-
-<details>
-  <summary><b>▶ Clique para conhecer meu caminho até aqui</b></summary>
-  <br />
-
-  Minha experiência anterior é ligada à área administrativa, com atuação em ERP, notas fiscais, controle de estoque e operações de e-commerce. Hoje, levo esse conhecimento de processos para meus estudos em tecnologia.
-
-  Também concluí cursos livres de **Python (Fundação Bradesco)** e **Gestão de Processos (ENAP)**. Sigo construindo uma base sólida antes de avançar para projetos mais complexos.
-
-  **Próximos passos:** aprofundar SQL, praticar Python, aprimorar meus projetos e documentar o que aprendo aqui no GitHub.
-</details>
-
-## 🤝 Vamos nos conectar?
+## Vamos nos conectar?
 
 <div align="center">
 

@@ -58,8 +58,6 @@ Os projetos abaixo são **acadêmicos e desenvolvidos em equipe**. Eles mostram 
 <img height="165" alt="Estatísticas públicas do meu GitHub" src="https://github-readme-stats.vercel.app/api?username=Erisclecio&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1727&amp;title_color=24C3B5&amp;text_color=C8D6E5&amp;icon_color=24C3B5&amp;locale=pt-br" />
 <img height="165" alt="Linguagens mais usadas nos meus repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erisclecio&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1727&amp;title_color=24C3B5&amp;text_color=C8D6E5&amp;locale=pt-br" />
 
-<img alt="Gráfico recente de contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=Erisclecio&amp;bg_color=0D1727&amp;color=C8D6E5&amp;line=24C3B5&amp;point=FFFFFF&amp;area=true&amp;area_color=159A9C&amp;hide_border=true&amp;custom_title=Minha%20atividade%20recente" />
-
 <sub>As estatísticas são atualizadas por serviços externos e podem demorar para refletir novas contribuições.</sub>
 
 </div>

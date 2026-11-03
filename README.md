@@ -1,77 +1,66 @@
-<!-- README de perfil de @Erisclecio | personalize e atualize conforme sua evolução -->
+<p align="center">
+  <img src="./assets/cabecalho.svg" alt="Erisclécio Araujo — Da operação à tecnologia: processos, dados e desenvolvimento de sistemas" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> · São Paulo, Brasil
+</p>
 
-<img alt="Capa do perfil" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:0B1220,50:17365A,100:159A9C&amp;text=Eriscl%C3%A9cio%20Araujo&amp;fontColor=FFFFFF&amp;fontSize=38&amp;fontAlignY=38&amp;desc=Estudante%20de%20ADS%20%7C%20Tecnologia%20e%20Dados&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn" />
+---
 
-<a href="https://github.com/Erisclecio"><img alt="Texto animado de apresentação" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1100&amp;color=24C3B5&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Aprendendo+programa%C3%A7%C3%A3o+um+projeto+de+cada+vez;Explorando+Python%2C+Dados+e+Desenvolvimento+Web;Transformando+curiosidade+em+conhecimento" /></a>
+## <img src="./assets/icone-sobre.svg" alt="" width="25" /> Sobre mim
 
-<img alt="São Paulo" src="https://img.shields.io/badge/S%C3%A3o%20Paulo%20%7C%20Brasil-15263B?style=flat-square&amp;logo=googlemaps&amp;logoColor=24C3B5" />
-<img alt="ADS" src="https://img.shields.io/badge/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-15263B?style=flat-square&amp;logo=bookstack&amp;logoColor=24C3B5" />
-<img alt="Foco" src="https://img.shields.io/badge/Foco-Tecnologia%20%26%20Dados-15263B?style=flat-square&amp;logo=github&amp;logoColor=24C3B5" />
+Minha experiência profissional está ligada à **organização de processos e informações**: rotinas administrativas, sistemas ERP, controle de estoque, faturamento, emissão de notas fiscais e operações de e-commerce.
 
-</div>
+Hoje, curso **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha base em programação, modelagem de bancos de dados e desenvolvimento web. Tenho interesse especial em **dados e banco de dados**, áreas nas quais posso conectar minha vivência operacional à tecnologia.
 
-## Um pouco sobre mim
+## <img src="./assets/icone-trajetoria.svg" alt="" width="25" /> Minha trajetória
 
--  **Formação:** Análise e Desenvolvimento de Sistemas — em andamento.
--  **Estudando:** lógica de programação, Python, desenvolvimento web e modelagem de dados.
--  **Interesses:** banco de dados, análise de dados e desenvolvimento de sistemas.
--  **Na prática:** projetos acadêmicos para conectar o que aprendo com situações reais.
+<p align="center">
+  <img src="./assets/trajetoria.svg" alt="Da experiência com processos administrativos à organização de dados e ao aprendizado de desenvolvimento de sistemas" width="100%" />
+</p>
 
-## Tecnologias e ferramentas em aprendizado
+## <img src="./assets/icone-ferramentas.svg" alt="" width="25" /> Conhecimentos e ferramentas
 
-<div align="center">
+<p align="center">
+  <img src="./assets/ferramentas.svg" alt="Python, linguagem C, HTML, Git, GitHub, Visual Studio Code e Excel" width="100%" />
+</p>
 
-<a href="https://github.com/Erisclecio?tab=repositories"><img
-    alt="Ícones de Python, HTML, PostgreSQL, Git, GitHub e VS Code" src="https://skillicons.dev/icons?i=python,html,postgres,git,github,vscode&theme=dark&perline=6"/></a>
+**Na graduação:** lógica de programação, programação em C, fundamentos de Python, HTML e modelagem de dados.  
+**Na prática profissional:** Excel, sistemas ERP, registros operacionais, faturamento e organização de informações.
 
-<img alt="SQL em estudo" src="https://img.shields.io/badge/SQL-em%20estudo-176B79?style=for-the-badge" />
-<img alt="Modelagem de dados" src="https://img.shields.io/badge/Modelagem%20de%20Dados-em%20estudo-176B79?style=for-the-badge" />
-<img alt="Excel" src="https://img.shields.io/badge/Excel-experi%C3%AAncia%20pr%C3%A1tica-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" />
+> As tecnologias apresentadas incluem conhecimentos em estudo. Não representam domínio avançado de todas as ferramentas.
 
-</div>
+## <img src="./assets/icone-projetos.svg" alt="" width="25" /> Projetos em destaque
 
-## Projetos em destaque
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Erisclecio/ModelagemBarbearia_NAVOR_">
+        <img src="./assets/projeto-modelagem.svg" alt="NAVØR: projeto acadêmico de modelagem de banco de dados" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Erisclecio/FrontEnd_NAVOR">
+        <img src="./assets/projeto-web.svg" alt="NAVØR: projeto acadêmico de desenvolvimento web" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Os projetos abaixo são **acadêmicos e desenvolvidos em equipe**. Eles mostram minha evolução em diferentes áreas da tecnologia.
+Os dois projetos foram desenvolvidos **em equipe** na graduação. No projeto de modelagem, apresento o trabalho coletivo de análise e documentação de um banco de dados para um futuro ERP; no site, minha participação esteve ligada à **arquitetura da informação**.
 
-| Projeto | O que estou desenvolvendo e aprendendo |
-| :--- | :--- |
-| **[NAVØR — Modelagem de Dados e ERP](https://github.com/Erisclecio/ModelagemBarbearia_NAVOR_)** | Levantamento de processos, regras de negócio, entidades e relacionamentos para a modelagem de um ERP de barbearia. |
-| **[NAVØR — Desenvolvimento Front-End](https://github.com/Erisclecio/FrontEnd_NAVOR)** | Estruturação de um site de barbearia, organização da informação e planejamento de páginas para uma futura integração com o ERP. |
+**[Explorar o projeto de modelagem](https://github.com/Erisclecio/ModelagemBarbearia_NAVOR_)** · **[Explorar o projeto web](https://github.com/Erisclecio/FrontEnd_NAVOR)** · **[Visualizar o site](https://erisclecio.github.io/FrontEnd_NAVOR/html/index.html)**
 
-<div align="center">
+## <img src="./assets/icone-aprendizado.svg" alt="" width="25" /> Direção de aprendizado
 
-<a href="https://github.com/Erisclecio/ModelagemBarbearia_NAVOR_">
-  <img height="135" alt="Cartão do projeto de Modelagem de Dados NAVØR" src="https://github-readme-stats.vercel.app/api/pin/?username=Erisclecio&amp;repo=ModelagemBarbearia_NAVOR_&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1727&amp;title_color=24C3B5&amp;text_color=C8D6E5&amp;icon_color=24C3B5" />
-</a>
-<a href="https://github.com/Erisclecio/FrontEnd_NAVOR">
-  <img height="135" alt="Cartão do projeto Front-End NAVØR" src="https://github-readme-stats.vercel.app/api/pin/?username=Erisclecio&amp;repo=FrontEnd_NAVOR&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1727&amp;title_color=24C3B5&amp;text_color=C8D6E5&amp;icon_color=24C3B5" />
-</a>
+Estou concentrado em fortalecer os fundamentos de **SQL, modelagem de dados e programação**, evoluindo por meio de exercícios e projetos. Meu objetivo é compreender como as informações são estruturadas e como sistemas podem apoiar processos e decisões.
 
-</div>
+Este GitHub é meu espaço para reunir projetos, registrar aprendizados e documentar minha evolução técnica.
 
-## Minha atividade no GitHub
+## <img src="./assets/icone-conexoes.svg" alt="" width="25" /> Conexões
 
-<div align="center">
-
-<img height="165" alt="Estatísticas públicas do meu GitHub" src="https://github-readme-stats.vercel.app/api?username=Erisclecio&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1727&amp;title_color=24C3B5&amp;text_color=C8D6E5&amp;icon_color=24C3B5&amp;locale=pt-br" />
-<img height="165" alt="Linguagens mais usadas nos meus repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erisclecio&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1727&amp;title_color=24C3B5&amp;text_color=C8D6E5&amp;locale=pt-br" />
-
-<sub>As estatísticas são atualizadas por serviços externos e podem demorar para refletir novas contribuições.</sub>
-
-</div>
-
-## Vamos nos conectar?
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/eriscl%C3%A9cioaraujo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="https://github.com/Erisclecio?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-151B2B?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-
-<strong>Em constante construção: cada projeto representa uma nova etapa de aprendizado.</strong>
-
-<img alt="Rodapé" src="https://capsule-render.vercel.app/api?type=waving&amp;height=95&amp;section=footer&amp;color=0:0B1220,50:17365A,100:159A9C" />
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/eriscl%C3%A9cioaraujo"><img src="./assets/contato-linkedin.svg" alt="Meu perfil no LinkedIn" width="155" /></a>
+  <a href="https://github.com/Erisclecio?tab=repositories"><img src="./assets/contato-github.svg" alt="Ver meus repositórios" width="155" /></a>
+</p>

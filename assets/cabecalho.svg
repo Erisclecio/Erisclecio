@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1100 295" width="1100" height="295" role="img">
+<defs>
+<linearGradient id="banner" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121B2A"/><stop offset="0.62" stop-color="#0D1522"/><stop offset="1" stop-color="#0B1018"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34CCFF"/><stop offset="1" stop-color="#2D83F4"/></linearGradient>
+<radialGradient id="aura"><stop offset="0" stop-color="#185081" stop-opacity=".32"/><stop offset="1" stop-color="#185081" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="0" y="0" width="1100" height="295" rx="18" fill="url(#banner)"/>
+<circle cx="854" cy="144" r="200" fill="url(#aura)"/>
+<rect x="40" y="45" width="6" height="168" rx="3" fill="url(#accent)"/>
+<text x="74" y="108" fill="#E6EDF3" font-family="Segoe UI,Arial,DejaVu Sans,sans-serif" font-size="56" font-weight="bold">Erisclécio</text><text x="350" y="108" fill="#43A5FF" font-family="Segoe UI,Arial,DejaVu Sans,sans-serif" font-size="56" font-weight="bold">Araujo</text><text x="76" y="152" fill="#E6EDF3" font-family="Segoe UI,Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="normal">Da operação à tecnologia.</text><text x="77" y="196" fill="#A7B6C7" font-family="Segoe UI,Arial,DejaVu Sans,sans-serif" font-size="18" font-weight="normal">Processos, dados e desenvolvimento de sistemas.</text><text x="77" y="228" fill="#A7B6C7" font-family="Segoe UI,Arial,DejaVu Sans,sans-serif" font-size="17" font-weight="normal">Aprendizado aplicado em projetos e desafios reais.</text><g fill="none" stroke="#48AEFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="868" cy="140" r="115" stroke="#328BDB" stroke-dasharray="256 500" opacity=".82"/>
+<path d="M810 183h130a8 8 0 0 0 8-8v-82a8 8 0 0 0-8-8H810a8 8 0 0 0-8 8v82a8 8 0 0 0 8 8Z"/>
+<path d="M802 106h146M857 183v19m-26 0h54"/>
+<path d="m860 123-17 14 17 13m31-27 17 14-17 13m-6-33-12 38"/>
+<ellipse cx="755" cy="164" rx="34" ry="11"/><path d="M721 164v46c0 7 15 12 34 12 9 0 18-1 23-4m-57-32c9 15 48 14 57 7"/>
+<path d="M980 193l5-9 9 2 3-8 11 3 0 9 9 6-3 10 6 7-5 10-10-1-6 8-9-5-9 4-7-8-10 0-3-12 7-5Z"/><circle cx="993" cy="205" r="9"/>
+</g>
+<circle cx="814" cy="96" r="3" fill="#48AEFF"/><circle cx="825" cy="96" r="3" fill="#48AEFF"/><circle cx="837" cy="96" r="3" fill="#48AEFF"/>
+
+</svg>

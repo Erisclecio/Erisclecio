@@ -33,6 +33,7 @@ Hoje, curso **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo
 
 ## <img src="./assets/icone-projetos.svg" alt="" width="25" /> Projetos em destaque
 
+<!-- PORTFOLIO:START -->
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
@@ -51,6 +52,7 @@ Hoje, curso **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo
 Os dois projetos foram desenvolvidos **em equipe** na graduação. No projeto de modelagem, apresento o trabalho coletivo de análise e documentação de um banco de dados para um futuro ERP; no site, minha participação esteve ligada à **arquitetura da informação**.
 
 **[Explorar o projeto de modelagem](https://github.com/Erisclecio/ModelagemBarbearia_NAVOR_)** · **[Explorar o projeto web](https://github.com/Erisclecio/FrontEnd_NAVOR)** · **[Visualizar o site](https://erisclecio.github.io/FrontEnd_NAVOR/html/index.html)**
+<!-- PORTFOLIO:END -->
 
 ## <img src="./assets/icone-aprendizado.svg" alt="" width="25" /> Direção de aprendizado
 

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 537 223" width="537" height="223" role="img" aria-label="Projeto do portfólio no GitHub">
+  <rect x="3" y="3" width="531" height="217" rx="18" fill="#151D29" stroke="#344253" stroke-width="2"/>
+  <circle cx="53" cy="54" r="26" fill="#173F63"/>
+  <g fill="none" stroke="#46ADFF" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="39" y="42" width="29" height="25" rx="3"/>
+    <path d="m46 50-5 5 5 5m15-10 5 5-5 5"/>
+  </g>
+  <text x="91" y="48" fill="#E6EDF3" font-family="Segoe UI,Arial,DejaVu Sans,sans-serif" font-size="22" font-weight="bold">Novo projeto</text>
+  <text x="93" y="76" fill="#43A5FF" font-family="Segoe UI,Arial,DejaVu Sans,sans-serif" font-size="12" font-weight="bold" letter-spacing="1">PORTFÓLIO · GITHUB</text>
+  <text x="32" y="112" fill="#A7B6C7" font-family="Segoe UI,Arial,DejaVu Sans,sans-serif" font-size="16">Projetos e aprendizados em tecnologia,</text>
+  <text x="32" y="134" fill="#A7B6C7" font-family="Segoe UI,Arial,DejaVu Sans,sans-serif" font-size="16">documentados em repositórios públicos.</text>
+  <path d="M31 181h472" stroke="#303B49" stroke-width="1"/>
+  <text x="32" y="205" fill="#43A5FF" font-family="Segoe UI,Arial,DejaVu Sans,sans-serif" font-size="15" font-weight="bold">VER PROJETO</text>
+</svg>

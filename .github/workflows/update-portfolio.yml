@@ -1,0 +1,43 @@
+name: Atualizar projetos do portfolio
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-projetos-perfil
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter arquivos do perfil
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Consultar projetos e atualizar README
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/update_portfolio.py
+
+      - name: Publicar somente se houver alteracoes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Nenhuma alteracao no portfolio."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: atualizar projetos do portfolio"
+          git push

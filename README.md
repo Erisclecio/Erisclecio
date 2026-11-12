@@ -37,21 +37,13 @@ Hoje, curso **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Erisclecio/ModelagemBarbearia_NAVOR_">
-        <img src="./assets/projeto-modelagem.svg" alt="NAVØR: projeto acadêmico de modelagem de banco de dados" width="100%" />
-      </a>
+      <a href="https://github.com/Erisclecio/ModelagemBarbearia_NAVOR_"><img src="./assets/projeto-modelagem.svg" alt="NAVØR: projeto acadêmico de modelagem de banco de dados" width="100%" /></a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Erisclecio/FrontEnd_NAVOR">
-        <img src="./assets/projeto-web.svg" alt="NAVØR: projeto acadêmico de desenvolvimento web" width="100%" />
-      </a>
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
-Os dois projetos foram desenvolvidos **em equipe** na graduação. No projeto de modelagem, apresento o trabalho coletivo de análise e documentação de um banco de dados para um futuro ERP; no site, minha participação esteve ligada à **arquitetura da informação**.
-
-**[Explorar o projeto de modelagem](https://github.com/Erisclecio/ModelagemBarbearia_NAVOR_)** · **[Explorar o projeto web](https://github.com/Erisclecio/FrontEnd_NAVOR)** · **[Visualizar o site](https://erisclecio.github.io/FrontEnd_NAVOR/html/index.html)**
+**NAVØR — Modelagem de Dados:** trabalho acadêmico em equipe de análise e documentação de um banco de dados para um futuro ERP.
 <!-- PORTFOLIO:END -->
 
 ## <img src="./assets/icone-aprendizado.svg" alt="" width="25" /> Direção de aprendizado
